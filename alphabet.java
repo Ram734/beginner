@@ -1,5 +1,5 @@
 import java.util.*;
-class vc
+class alphabet
 {
 	public static void main(String a[])
 	{
